@@ -1,2 +1,5 @@
 print('Olá Mundo !')
 print('Testando Git')
+nome = input(' Qual seu nome ? ')
+idade = input ('Qual sua idade ? ')
+print(f'Seu nome é {nome} e tem {idade} anos.')

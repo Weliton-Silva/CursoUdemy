@@ -1,5 +1,5 @@
-valor1 = input(int('Digite um valor: '))
-valor2 = input(int('Digite o segundo valor: '))
+valor1 = int(input('Digite um valor: '))
+valor2 = int(input('Digite o segundo valor: '))
 
 if valor1 > valor2:
     print(f'O primeiro valor {valor1} é maior')
